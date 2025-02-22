@@ -1,0 +1,30 @@
+
+body{
+    background-color: #EDD4B2;
+}
+
+#pequeno{
+    background-color: white;
+    height: 1100px;
+    width: 1700px;
+    margin-left: 100px;
+}
+
+body{
+    margin: 0px;
+}
+
+.fonte{
+    margin-left: 750px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.centralizada{
+    text-align: center;
+    border:solid 1px gray;
+}
